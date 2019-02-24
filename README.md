@@ -31,7 +31,11 @@ Features information:
 Types of features:
 
 A. Categorical features (Has two or more categories and each value in that feature can be categorised by them): sex, chest_pain
+
+
 B. Ordinal features (Variable having relative ordering or sorting between the values): fasting_blood_sugar, electrocardiographic, induced_angina, slope, no_of_vessels, thal, diagnosis
+
+
 C. Continuous features (Variable taking values between any two points or between the minimum or maximum values in the feature column): age, blood_pressure, serum_cholestoral, max_heart_rate, ST_depression
 
 The main goal  is to predict heart disease occurrence with the highest accuracy. In order to achieve this, several classification algorithms are tested. 
